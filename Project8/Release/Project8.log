@@ -1,0 +1,9 @@
+﻿  Source.c
+  Generating code
+c:\users\sim\documents\visual studio 2015\projects\project8\project8\source.c(25): warning C4716: 'ThreadProc_Injection': must return a value
+  Finished generating code
+  1 of 3 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Project8.vcxproj -> C:\Users\Sim\Documents\Visual Studio 2015\Projects\Project8\Release\Project8.exe
+  Project8.vcxproj -> C:\Users\Sim\Documents\Visual Studio 2015\Projects\Project8\Release\Project8.pdb (Full PDB)
